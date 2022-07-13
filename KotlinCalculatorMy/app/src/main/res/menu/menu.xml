@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+<item android:id="@+id/Carpma"  android:title="Carpma">
+
+</item>
+
+
+<item android:id="@+id/Bolme" android:title="Bolme" >
+
+</item>
+
+
+    <item android:id="@+id/Toplama" android:title="Toplama">
+
+    </item>
+
+
+
+    <item android:id="@+id/Cikarma" android:title="Cikarma"
+        >
+
+    </item>
+</menu>
